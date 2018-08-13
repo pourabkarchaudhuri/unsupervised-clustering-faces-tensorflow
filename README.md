@@ -77,7 +77,9 @@ $ pip install -r requirements.txt
 
 Oversight requires [Python](https://www.python.org/) 3.6+ to run.
 
-##### Goto send_message.py and replace required Authentication Tokens for Twilio Notifications.
+###### IMPORTANT STEP 1 : Goto send_message.py and replace required Authentication Tokens for Twilio Notifications.
+
+###### IMPORTANT STEP 2 : Place your Video in /uploads and replace filename of video in webcam_detect.py
 
 
 ```sh
