@@ -81,8 +81,8 @@ Oversight requires [Python](https://www.python.org/) 3.6+ to run.
 
 
 ```sh
-$ git clone 
-$ cd
+$ git clone https://github.com/pourabkarchaudhuri/unsupervised-clustering-faces-tensorflow.git
+$ cd https://github.com/pourabkarchaudhuri/unsupervised-clustering-faces-tensorflow.git
 $ python cluster.py
 ```
 
