@@ -15,7 +15,7 @@ def main():
 
     os.mkdir('images_raw')
     # Capture device. Usually 0 will be webcam and 1 will be usb cam.
-    filename_video = 'video.mp4'
+    filename_video = 'video.mp4' #Replace with Filename here of Video kept in /uploads Folder
     file_name = os.getcwd() + "\\uploads\\" + filename_video
     video_capture = cv2.VideoCapture(file_name)
     video_capture.set(3, 640)
