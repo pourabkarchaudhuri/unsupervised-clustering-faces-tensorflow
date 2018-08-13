@@ -60,13 +60,13 @@ $ conda update conda
 ```
 
 ##### Run package installer
-&nbsp;
+
 ```sh
 $ pip install -r requirements.txt
 ```
 
 ##### Install C/C++ Build tools
-&nbsp;
+
 * [C/C++ Build Tools] - Custom librarires required to build C based implementations to Python runnable builds
 
 #### Download Pre-Trained Model
