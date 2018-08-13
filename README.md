@@ -71,7 +71,7 @@ $ pip install -r requirements.txt
 
 #### Download Pre-Trained Model
 
-* [Pretrained Model] - A trained CNN by Google whose bottleneck needs to be consumed
+* [Pretrained Model] - A trained CNN by Google whose bottleneck needs to be consumed. Put this .pb file in the *20170512-110547* folder
 
 #### Installation
 
