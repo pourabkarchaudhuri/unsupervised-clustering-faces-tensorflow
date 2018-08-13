@@ -38,8 +38,11 @@ https://developer.nvidia.com/compute/machine-learning/cudnn/secure/v7.0.5/prod/9
 
 ##### Set Path :
 Add the following paths,
+&nbsp;
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
+&nbsp;
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp
+&nbsp;
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\extras\CUPTI\libx64
 
 ##### Install Anaconda with 3.6
