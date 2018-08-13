@@ -39,10 +39,10 @@ Oversight uses a number of open source projects to work properly:
 These were the pre-requisities :
 
 ##### NVIDIA CUDA Toolkit
-* [CUDA] - parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs)
+* [CUDA] - parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). Download and Install all the patches. During install, choose Custom and uncheck the Visual Studio Integration checkbox.
 
 ##### Download cuDNN
-* [cuDNN] - The NVIDIA CUDA® Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks.
+* [cuDNN] - The NVIDIA CUDA® Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks. Create a NVIDIA developer account to download.
 
 ##### Set Path :
 Add the following paths,
