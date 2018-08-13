@@ -22,13 +22,15 @@ This project is greatly inspired from the Sandberg Paper called Google FaceNet, 
 
 * [Google's Facenet] - Face Embeddings whitepapers
 
-### Tech
+### Technology
 
 Oversight uses a number of open source projects to work properly:
 
-
 * [Tensorflow] - A google open-source ML framework
 * [Python] - awesome language we love
+
+### Architecture Diagram
+[![Architecture](https://raw.githubusercontent.com/pourabkarchaudhuri/unsupervised-clustering-faces-tensorflow/master/project_oversight_architecture.png)](https://nodesource.com/products/nsolid)
 
 ### Environment Setup
 
