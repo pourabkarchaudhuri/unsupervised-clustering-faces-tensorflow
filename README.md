@@ -54,7 +54,7 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\extras\CUPTI\libx64
 
 ##### Install [Anaconda](https://www.anaconda.com/download/) with 3.6 x64
-&nbsp;
+
 ```sh
 $ conda update conda
 ```
@@ -78,7 +78,7 @@ $ pip install -r requirements.txt
 Oversight requires [Python](https://www.python.org/) 3.6+ to run.
 
 ##### Goto send_message.py and replace required Authentication Tokens for Twilio Notifications.
-&nbsp;
+
 
 ```sh
 $ git clone 
