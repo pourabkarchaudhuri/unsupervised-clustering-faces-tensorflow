@@ -1,7 +1,6 @@
 *.pyc
 __pycache__
 20170512-110547
-uploads/*
 images_cleaned/*
 images_raw/*
 results/*
