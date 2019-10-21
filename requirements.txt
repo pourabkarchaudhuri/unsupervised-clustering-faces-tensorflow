@@ -96,7 +96,7 @@ twilio==6.16.1
 typed-ast==1.1.0
 urllib3==1.23
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 winpython==1.9.20171031
 wrapt==1.10.11
 zerorpc==0.6.1
