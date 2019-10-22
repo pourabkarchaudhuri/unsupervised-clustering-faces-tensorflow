@@ -52,7 +52,7 @@ opencv-python==3.4.2.16
 parso==0.1.0
 partd==0.3.8
 pathlib==1.0.1
-Pillow==5.0.0
+Pillow==6.2.0
 prompt-toolkit==1.0.15
 protobuf==3.6.0
 psutil==5.4.6
