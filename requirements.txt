@@ -58,7 +58,7 @@ protobuf==3.6.0
 psutil==5.4.6
 ptpython==0.41
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 pylint==2.0.1
 pyodbc==4.0.19
