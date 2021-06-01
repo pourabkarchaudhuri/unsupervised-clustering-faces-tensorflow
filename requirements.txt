@@ -94,7 +94,7 @@ toolz==0.8.2
 tqdm==4.19.6
 twilio==6.16.1
 typed-ast==1.1.0
-urllib3==1.23
+urllib3==1.26.5
 wcwidth==0.1.7
 Werkzeug==0.14.1
 winpython==1.9.20171031
