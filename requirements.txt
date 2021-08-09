@@ -73,7 +73,7 @@ python-snappy==0.5.1
 pythonnet==2.4.0.dev0
 pytz==2018.3
 PyWavelets==0.5.2
-pywin32==223
+pywin32==301
 PyYAML==3.12
 pyzmq==17.1.0
 QtPy==1.4.2
