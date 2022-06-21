@@ -47,7 +47,7 @@ matplotlib==2.1.2
 mccabe==0.6.1
 msgpack-python==0.5.6
 networkx==2.1
-numpy==1.15.0
+numpy==1.22.0
 opencv-python==3.4.2.16
 parso==0.1.0
 partd==0.3.8
