@@ -54,7 +54,7 @@ partd==0.3.8
 pathlib==1.0.1
 Pillow==5.0.0
 prompt-toolkit==1.0.15
-protobuf==3.6.0
+protobuf==3.18.3
 psutil==5.4.6
 ptpython==0.41
 pycparser==2.18
